@@ -1,1 +1,3 @@
-its the second document to add to github
+its the second document to add to GitHub
+
+welcome to github
